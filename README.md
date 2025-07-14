@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Peña</h1>
-<h3 align="center">AI/ML Engineer | Computer Science Engineer | Founder @ InferSeek</h3>
+<h3 align="center">AI/ML Engineer | Founder @ InferSeek</h3>
 
 <p align="center">
 Engineer in Computer Science with 4+ years of experience designing, building, and deploying end-to-end AI/ML solutions.<br>
