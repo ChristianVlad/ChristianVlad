@@ -2,74 +2,82 @@
 <h3 align="center">AI/ML Engineer | Computer Science Engineer | Founder @ InferSeek</h3>
 
 <p align="center">
-Engineer in Computer Science with 4+ years of experience in Data Analytics, Machine Learning, and Cloud-based AI solutions. <br>
-I specialize in building scalable data products, ML pipelines, and APIs for real-world use cases. <br>
-Currently developing <strong>InferSeek</strong>, a SaaS platform for demand forecasting and credit risk evaluation.
+Engineer in Computer Science with 4+ years of experience designing, building, and deploying end-to-end AI/ML solutions.<br>
+Proficient in Python and ML frameworks such as TensorFlow and Scikit-learn, with expertise across the entire machine learning lifecycle from data preprocessing and feature engineering to model training, evaluation, and deployment in cloud environments.<br>
+Skilled in developing scalable ML pipelines, integrating APIs, and automating workflows to deliver reliable, production-ready AI solutions.<br>
+Strong background in relational databases, ETL pipelines, and data visualization to support data-driven decision-making and operational optimization.
 </p>
 
 ---
 
-- 🧠 **Main interests**: Applied AI, Forecasting, MLOps, Scalable APIs, and Intelligent SaaS products  
-- 🛠️ **Primary stack**: Python, FastAPI, PyTorch, TensorFlow, GCP, AWS  
-- 📫 **Email**: christian.valladaresp@gmail.com  
-- 🌍 **LinkedIn**: [linkedin.com/in/christian-vp](https://www.linkedin.com/in/christian-vp/)
+### 🧠 Interests
+
+- Applied AI and Machine Learning for real-world systems  
+- MLOps and end-to-end automation with CI/CD  
+- Intelligent data products & demand forecasting  
+- Multi-agent LLM architectures for autonomous systems  
+- Building SaaS platforms like <strong>InferSeek</strong> for demand prediction, credit risk evaluation and LLM's Multi-Agents  
 
 ---
 
-## 🌐 Connect with me
+### 🧰 Languages and Tools
+
+<h4>👨‍💻 Programming</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+</p>
+
+<h4>📊 Data Science & Machine Learning</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+</p>
+
+<h4>⚙️ Backend & MLOps</h4>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+<h4>☁️ Cloud Platforms</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</p>
+
+<h4>🗄️ Databases</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</p>
+
+<h4>🐧 Operating Systems</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
+
+---
+
+## 📬 Contact & Connect
 
 <p align="left">
+  <a href="mailto:christian.valladaresp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
   <a href="https://www.linkedin.com/in/christian-vp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
 
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Programming & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
-</p>
-
-### 📊 Data Science & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-0769AD?logo=seaborn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
-</p>
-
-### ⚙️ Backend & MLOps
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-</p>
-
-### ☁️ Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
-</p>
-
-### 🐧 OS & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-</p>
 
