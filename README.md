@@ -1,82 +1,85 @@
-<h1 align="center">Hi 👋, I'm Christian Peña</h1>
-<h3 align="center">AI/ML Engineer</h3>
+<h1 align="center">Christian Peña</h1>
+<h3 align="center">AI/ML Architect · Data Platforms & Decision Systems</h3>
 
 <p align="center">
-Engineer in Computer Science with 4+ years of experience designing, building, and deploying end-to-end AI/ML solutions.<br>
-Proficient in Python and ML frameworks such as TensorFlow and Scikit-learn, with expertise across the entire machine learning lifecycle from data preprocessing and feature engineering to model training, evaluation, and deployment in cloud environments.<br>
-Skilled in developing scalable ML pipelines, integrating APIs, and automating workflows to deliver reliable, production-ready AI solutions.<br>
-Strong background in relational databases, ETL pipelines, and data visualization to support data-driven decision-making and operational optimization.
+  <a href="https://www.linkedin.com/in/christian-vp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:christian.valldaresp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-El%20Salvador-0072B1?style=for-the-badge" />
 </p>
 
 ---
 
-### 🧠 Interests
+### What I do
 
-- Applied AI and Machine Learning for real-world systems  
-- MLOps and end-to-end automation with CI/CD  
-- Intelligent data products & demand forecasting  
-- Multi-agent LLM architectures for autonomous systems  
-- Building SaaS platforms like <strong>InferSeek</strong> for demand prediction, credit risk evaluation and LLM's Multi-Agents  
+I design and ship production AI/ML systems — credit decisioning platforms, fraud detection, document intelligence, and the data infrastructure underneath them — for fintech and financial-risk environments. Five years in, my work has shifted from building individual models to architecting the systems they live in: orchestration, MLOps, hybrid cloud data platforms, and the engineering decisions that let ML survive contact with production.
 
----
+I'm currently focused on **AI/ML system architecture** — designing platforms that are auditable, scalable, and owned end-to-end rather than stitched together from vendor APIs.
 
-### 🧰 Languages and Tools
-
-<h4>👨‍💻 Programming</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</p>
-
-<h4>📊 Data Science & Machine Learning</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</p>
-
-<h4>⚙️ Backend & MLOps</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
-
-<h4>☁️ Cloud Platforms</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</p>
-
-<h4>🗄️ Databases</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</p>
-
-<h4>🐧 Operating Systems</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+**Currently:** Senior Data Scientist @ [Davivienda El Salvador](https://www.davivienda.com.sv/) — built the bank's credit pre-approval platform and rebuilt its credit scoring infrastructure into an internally-owned, auditable decisioning system.
+**Previously:** Machine Learning Engineer @ [Chivo Wallet](https://www.chivowallet.com/) — sole ML engineer; owned architecture standards, MLOps, and production ML across fraud detection, OCR/NLP, and a hybrid on-prem/GCP data platform.
 
 ---
 
-## 📬 Contact & Connect
+### How I think about this work
 
-<p align="left">
-  <a href="mailto:christian.valladaresp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://www.linkedin.com/in/christian-vp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-</p>
+- **Systems over scripts.** A model is the easy part. The hard part is the orchestration, monitoring, and failure modes around it — that's where most production ML actually breaks.
+- **Own the critical path.** At Davivienda, that meant replacing a third-party credit scoring vendor with an internal, auditable pipeline. Dependencies you don't control are technical debt with someone else's name on it.
+- **Build for the reviewer, not just the model.** Some of the highest-leverage tools I've shipped weren't predictive models — they were graph-based investigation tools that cut fraud review time from days to minutes by making evidence legible to a human.
 
+---
 
+### Selected work
+
+> Most of my production systems (credit decisioning, fraud platforms, internal data infra) live in private company repositories and can't be shared publicly. The projects below are independent builds — designed to demonstrate the same architectural thinking using public data and from-scratch system design.
+
+| Project | Focus | Status |
+|---|---|---|
+| 🔜 **Credit Decisioning Engine** (rebuild, public version) | Multi-stage decisioning pipeline, rules + ML scoring, full audit trail | *In progress* |
+| [**Autonomous Multi-Agent Orchestrator**](https://github.com/ChristianVlad/Multi-Agent-Orchestrator) | LangGraph-based task decomposition, persistent memory, async tool execution, FastAPI streaming backend | Documentation refresh in progress |
+| [**Enterprise RAG Pipeline**](https://github.com/ChristianVlad/Product-Query-Bot-via-RAG-Pipeline) | Retrieval-augmented generation over unstructured documents, FAISS + evaluation loop to reduce hallucination | Documentation refresh in progress |
+
+*(Links above will go live as each repo's architecture docs are finished — see pinned repos for the current state.)*
+
+---
+
+### Stack
+
+**Languages & Core ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**GenAI & Agentic Systems**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+LangGraph · RAG · Vector Databases · AI Agents
+
+**Data & Platform Engineering**
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+Event-Driven Architectures · ETL/ELT
+
+**Cloud & MLOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Vertex AI · SageMaker · MLflow
+
+**Backend & Architecture**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+Microservices · Distributed Systems · REST APIs
+
+---
+
+### Background
+
+B.S. Computer Science, Francisco Gavidia University · Azure AI Fundamentals (AI-900) · Google Cloud ML/MLOps/Vertex AI training track
+
+📫 Reach me at **christian.valldaresp@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/christian-vp/).
