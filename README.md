@@ -34,9 +34,9 @@ I'm currently focused on **AI/ML system architecture** — designing platforms t
 
 | Project | Focus | Status |
 |---|---|---|
-| 🔜 **Credit Decisioning Engine** (rebuild, public version) | Multi-stage decisioning pipeline, rules + ML scoring, full audit trail | *In progress* |
-| [**Autonomous Multi-Agent Orchestrator**](https://github.com/ChristianVlad/Multi-Agent-Orchestrator) | LangGraph-based task decomposition, persistent memory, async tool execution, FastAPI streaming backend | Documentation refresh in progress |
+| [**Conversational AI Platform for Retail & Customer Service**](https://github.com/ChristianVlad/conversational-ai-platform-for-retail) | Multi-agent conversational commerce platform — guarded, intent-routed agent architecture with specialist agents for product discovery, recommendations, and order-taking | Documentation refresh in progress |
 | [**Enterprise RAG Pipeline**](https://github.com/ChristianVlad/Product-Query-Bot-via-RAG-Pipeline) | Retrieval-augmented generation over unstructured documents, FAISS + evaluation loop to reduce hallucination | Documentation refresh in progress |
+| **Multi-Agent Orchestrator (OpenClaw-based)** | Agent orchestration framework built on OpenClaw | *In progress* |
 
 *(Links above will go live as each repo's architecture docs are finished — see pinned repos for the current state.)*
 
